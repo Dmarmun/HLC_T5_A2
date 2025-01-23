@@ -11,3 +11,4 @@ def check_char():
             print("La palabra contiene el carácter %")
         else:
             print("La palabra no contiene ninguno de los caracteres @, #, $ o %")
+check_char()
